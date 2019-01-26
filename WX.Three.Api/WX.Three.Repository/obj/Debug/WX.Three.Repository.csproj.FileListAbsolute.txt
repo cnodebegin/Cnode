@@ -1,0 +1,10 @@
+E:\桌面文件\专业study\大一\东霸天霸\WX小程序——三组\WX.Three.Repository\bin\Debug\WX.Three.Repository.dll
+E:\桌面文件\专业study\大一\东霸天霸\WX小程序——三组\WX.Three.Repository\bin\Debug\WX.Three.Repository.pdb
+E:\桌面文件\专业study\大一\东霸天霸\WX小程序——三组\WX.Three.Repository\obj\Debug\WX.Three.Repository.csproj.CoreCompileInputs.cache
+E:\桌面文件\专业study\大一\东霸天霸\WX小程序——三组\WX.Three.Repository\obj\Debug\WX.Three.Repository.dll
+E:\桌面文件\专业study\大一\东霸天霸\WX小程序——三组\WX.Three.Repository\obj\Debug\WX.Three.Repository.pdb
+E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.Repository\bin\Debug\WX.Three.Repository.dll
+E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.Repository\bin\Debug\WX.Three.Repository.pdb
+E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.Repository\obj\Debug\WX.Three.Repository.csproj.CoreCompileInputs.cache
+E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.Repository\obj\Debug\WX.Three.Repository.dll
+E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.Repository\obj\Debug\WX.Three.Repository.pdb

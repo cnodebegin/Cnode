@@ -1,0 +1,11 @@
+E:\桌面文件\专业study\大一\东霸天霸\WX小程序——三组\WX.Three.Common\bin\Debug\WX.Three.Common.dll
+E:\桌面文件\专业study\大一\东霸天霸\WX小程序——三组\WX.Three.Common\bin\Debug\WX.Three.Common.pdb
+E:\桌面文件\专业study\大一\东霸天霸\WX小程序——三组\WX.Three.Common\obj\Debug\WX.Three.Common.csproj.CoreCompileInputs.cache
+E:\桌面文件\专业study\大一\东霸天霸\WX小程序——三组\WX.Three.Common\obj\Debug\WX.Three.Common.dll
+E:\桌面文件\专业study\大一\东霸天霸\WX小程序——三组\WX.Three.Common\obj\Debug\WX.Three.Common.pdb
+E:\桌面文件\专业study\大一\东霸天霸\WX小程序——三组\WX.Three.Common\obj\Debug\WX.Three.Common.csprojAssemblyReference.cache
+E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.Common\bin\Debug\WX.Three.Common.dll
+E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.Common\bin\Debug\WX.Three.Common.pdb
+E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.Common\obj\Debug\WX.Three.Common.csproj.CoreCompileInputs.cache
+E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.Common\obj\Debug\WX.Three.Common.dll
+E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.Common\obj\Debug\WX.Three.Common.pdb
