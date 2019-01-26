@@ -285,3 +285,4 @@ C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Api\obj\Debug\WX.Three.A
 C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Api\obj\Debug\WX.Three.Api.csproj.CopyComplete
 C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Api\obj\Debug\WX.Three.Api.dll
 C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Api\obj\Debug\WX.Three.Api.pdb
+C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Api\obj\Debug\WX.Three.Api.csprojAssemblyReference.cache
