@@ -7,7 +7,6 @@ function formatTime(date) {
   var minute = date.getMinutes()
   var second = date.getSeconds()
 
-
   return [year, month, day].map(formatNumber).join('/') + ' ' + [hour, minute, second].map(formatNumber).join(':')
 }
 
@@ -25,6 +24,7 @@ function getDateDiff (dateTimeStamp) {
   var year = day * 365;
   var now = new Date().getTime();
   var diffValue = now - dateTimeStamp;
+  var result="";
   if(diffValue < 0){
     //非法操作
     return '数据出错';

@@ -68,10 +68,10 @@ Page({
     }
 
     Api.fetchGet(ApiUrl, (err, res) => {
-      console.log(res.data);
+      console.log(res);
       //更新数据
       that.setData({
-        postsList: that.data.postsList.concat(res.data.map(function (item) {
+        postsList: that.data.postsList.concat(res.map(function (item) {
           item.last_reply_at = util.getDateDiff(new Date(item.last_reply_at));
           return item;
         }))
