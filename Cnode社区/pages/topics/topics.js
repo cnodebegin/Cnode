@@ -68,7 +68,7 @@ Page({
     }
 
     Api.fetchGet(ApiUrl, (err, res) => {
-      console.log(res);
+      console.log(res.data);
       //更新数据
       that.setData({
         postsList: that.data.postsList.concat(res.data.map(function (item) {
