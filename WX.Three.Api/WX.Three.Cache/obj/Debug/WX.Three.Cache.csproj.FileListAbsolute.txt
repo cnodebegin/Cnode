@@ -10,3 +10,9 @@ E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.Cache\obj\
 E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.Cache\obj\Debug\WX.Three.Cache.dll
 E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.Cache\obj\Debug\WX.Three.Cache.pdb
 E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.Cache\obj\Debug\WX.Three.Cache.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Cache\bin\Debug\WX.Three.Cache.dll
+C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Cache\bin\Debug\WX.Three.Cache.pdb
+C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Cache\obj\Debug\WX.Three.Cache.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Cache\obj\Debug\WX.Three.Cache.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Cache\obj\Debug\WX.Three.Cache.dll
+C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Cache\obj\Debug\WX.Three.Cache.pdb

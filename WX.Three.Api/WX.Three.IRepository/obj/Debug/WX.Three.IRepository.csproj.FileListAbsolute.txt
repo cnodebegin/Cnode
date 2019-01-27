@@ -9,3 +9,9 @@ E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.IRepositor
 E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.IRepository\obj\Debug\WX.Three.IRepository.dll
 E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.IRepository\obj\Debug\WX.Three.IRepository.pdb
 E:\桌面文件\专业study\大一\东霸天霸\WX.Three.Api\WX.Three.IRepository\obj\Debug\WX.Three.IRepository.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.IRepository\bin\Debug\WX.Three.IRepository.dll
+C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.IRepository\bin\Debug\WX.Three.IRepository.pdb
+C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.IRepository\obj\Debug\WX.Three.IRepository.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.IRepository\obj\Debug\WX.Three.IRepository.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.IRepository\obj\Debug\WX.Three.IRepository.dll
+C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.IRepository\obj\Debug\WX.Three.IRepository.pdb
