@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WX.CNode.Common
+namespace WX.CNode.Model
 {
     public class Class1
     {

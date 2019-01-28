@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WX.CNode.Model
+namespace WX.CNode.IRepository
 {
-    public class Active
+    public class Class1
     {
     }
 }

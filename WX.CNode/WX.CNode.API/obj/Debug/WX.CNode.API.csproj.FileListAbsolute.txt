@@ -48,9 +48,6 @@ E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\roslyn\vbc.rsp
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\roslyn\VBCSCompiler.exe
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\roslyn\VBCSCompiler.exe.config
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\Antlr3.Runtime.dll
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\Autofac.dll
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\Autofac.Integration.Mvc.dll
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\Autofac.Integration.WebApi.dll
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\Microsoft.Web.Infrastructure.dll
@@ -67,19 +64,6 @@ E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\System.Web.WebPages.Deploymen
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\System.Web.WebPages.dll
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\System.Web.WebPages.Razor.dll
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\WebGrease.dll
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\WX.CNode.IRepository.dll
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\WX.CNode.Model.dll
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\WX.CNode.Repository.dll
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\WX.CNode.IRepository.pdb
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\WX.CNode.IRepository.dll.config
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\WX.CNode.Model.pdb
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\WX.CNode.Model.dll.config
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\WX.CNode.Repository.pdb
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\WX.CNode.Repository.dll.config
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\Autofac.xml
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\Autofac.Integration.Mvc.xml
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\Autofac.Integration.WebApi.pdb
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\Autofac.Integration.WebApi.xml
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\Newtonsoft.Json.xml
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\System.Net.Http.Formatting.xml
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\System.Web.Helpers.xml
@@ -105,7 +89,6 @@ E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\zh-Hans\System.Web.Razor.reso
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\zh-Hans\System.Web.WebPages.resources.dll
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\obj\Debug\WX.CNode.API.csprojAssemblyReference.cache
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\obj\Debug\WX.CNode.API.csproj.CoreCompileInputs.cache
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\obj\Debug\WX.CNode.API.csproj.CopyComplete
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.API\obj\Debug\WX.CNode.API.dll
