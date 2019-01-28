@@ -35,3 +35,4 @@ E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Cache\bin\Debug\ServiceStack.Common.d
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Cache\bin\Debug\ServiceStack.Interfaces.dll
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Cache\bin\Debug\ServiceStack.Redis.dll
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Cache\bin\Debug\ServiceStack.Text.dll
+E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Cache\obj\Debug\WX.CNode.Cache.csprojAssemblyReference.cache
