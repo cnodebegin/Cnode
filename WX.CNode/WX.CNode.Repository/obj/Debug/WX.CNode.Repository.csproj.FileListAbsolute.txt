@@ -1,5 +1,0 @@
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Repository\bin\Debug\WX.CNode.Repository.dll
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Repository\bin\Debug\WX.CNode.Repository.pdb
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Repository\obj\Debug\WX.CNode.Repository.csproj.CoreCompileInputs.cache
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Repository\obj\Debug\WX.CNode.Repository.dll
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Repository\obj\Debug\WX.CNode.Repository.pdb
