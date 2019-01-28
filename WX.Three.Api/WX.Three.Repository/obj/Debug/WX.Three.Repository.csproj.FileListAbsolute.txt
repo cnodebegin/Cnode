@@ -14,3 +14,8 @@ C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Repository\obj\Debug\WX.
 C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Repository\obj\Debug\WX.Three.Repository.csproj.CoreCompileInputs.cache
 C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Repository\obj\Debug\WX.Three.Repository.dll
 C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Repository\obj\Debug\WX.Three.Repository.pdb
+D:\Cnode\WX.Three.Api\WX.Three.Repository\bin\Debug\WX.Three.Repository.dll
+D:\Cnode\WX.Three.Api\WX.Three.Repository\bin\Debug\WX.Three.Repository.pdb
+D:\Cnode\WX.Three.Api\WX.Three.Repository\obj\Debug\WX.Three.Repository.csproj.CoreCompileInputs.cache
+D:\Cnode\WX.Three.Api\WX.Three.Repository\obj\Debug\WX.Three.Repository.dll
+D:\Cnode\WX.Three.Api\WX.Three.Repository\obj\Debug\WX.Three.Repository.pdb
