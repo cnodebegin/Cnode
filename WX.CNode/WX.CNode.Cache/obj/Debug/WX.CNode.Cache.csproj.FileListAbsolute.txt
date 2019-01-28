@@ -27,7 +27,6 @@ E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Cache\bin\Debug\System.Web.Razor.xml
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Cache\bin\Debug\System.Web.WebPages.xml
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Cache\bin\Debug\System.Web.WebPages.Deployment.xml
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Cache\bin\Debug\System.Web.WebPages.Razor.xml
-E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Cache\obj\Debug\WX.CNode.Cache.csprojAssemblyReference.cache
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Cache\obj\Debug\WX.CNode.Cache.csproj.CoreCompileInputs.cache
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Cache\obj\Debug\WX.CNode.Cache.csproj.CopyComplete
 E:\大实训\Cnode\Cnode\WX.CNode\WX.CNode.Cache\obj\Debug\WX.CNode.Cache.dll
