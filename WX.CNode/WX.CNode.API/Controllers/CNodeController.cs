@@ -14,9 +14,11 @@ namespace WX.CNode.API.Controllers
     public class CNodeController : ApiController
     {
         public IActiveRepository ActiveService { get; set; }
-        public List<Active> GetActiveList()
+        [HttpGet]
+        public List<Active> topics()
         {
-            
+            List<Active> activelist = ActiveService.GetActiveList();
+            return activelist;
         }
     }
 }

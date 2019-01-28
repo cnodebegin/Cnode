@@ -12,7 +12,9 @@ namespace WX.CNode.Repository
     {
         public List<Active> GetActiveList()
         {
-            string sql = "select active.* from active join author on author.id=PublisherID join dataresources";
+            string sql = "select active.* from active join author on author.id=PublisherID join dataresource on dataresource.id=author.DataID";
+            List<Active> activelist = MySqlDapper.Query<Active>(sql);
+            return activelist;
         }
     }
 }
