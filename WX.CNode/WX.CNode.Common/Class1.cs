@@ -8,5 +8,6 @@ namespace WX.CNode.Common
 {
     public class Class1
     {
+
     }
 }
