@@ -18,6 +18,7 @@ namespace WX.CNode.API
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            AutoFacConfig.Register();
         }
         /// <summary>
         /// 跨域设置
