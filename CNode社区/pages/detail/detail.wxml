@@ -52,7 +52,7 @@
             <view class="detail-post-comment-info">
               <view class="detail-post-comment-info-cell">
                 <view class="detail-post-comment-author-name">{{ item.author.loginname }}</view>
-                <view class="detail-post-comment-time">{{index + 2}}楼 发表于{{ item.create_at }}</view>
+                <view class="detail-post-comment-time">{{index + 2}}楼 发表于{{ item.reply_at }}</view>
               </view>
               <view class="detail-post-comment-info-cell" style="text-align:right" id="{{item.id}}" data-index="{{index}}" catchtap="reply">
                 <image class="detail-post-zan" mode="scaleToFill" src="/images/icon/zan.png"></image>
