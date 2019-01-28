@@ -68,7 +68,6 @@ C:\Users\asus\Desktop\Daily\Cnode\WX.CNode\WX.CNode.Cache\bin\Debug\System.Web.R
 C:\Users\asus\Desktop\Daily\Cnode\WX.CNode\WX.CNode.Cache\bin\Debug\System.Web.WebPages.xml
 C:\Users\asus\Desktop\Daily\Cnode\WX.CNode\WX.CNode.Cache\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\asus\Desktop\Daily\Cnode\WX.CNode\WX.CNode.Cache\bin\Debug\System.Web.WebPages.Razor.xml
-C:\Users\asus\Desktop\Daily\Cnode\WX.CNode\WX.CNode.Cache\obj\Debug\WX.CNode.Cache.csprojAssemblyReference.cache
 C:\Users\asus\Desktop\Daily\Cnode\WX.CNode\WX.CNode.Cache\obj\Debug\WX.CNode.Cache.csproj.CoreCompileInputs.cache
 C:\Users\asus\Desktop\Daily\Cnode\WX.CNode\WX.CNode.Cache\obj\Debug\WX.CNode.Cache.csproj.CopyComplete
 C:\Users\asus\Desktop\Daily\Cnode\WX.CNode\WX.CNode.Cache\obj\Debug\WX.CNode.Cache.dll

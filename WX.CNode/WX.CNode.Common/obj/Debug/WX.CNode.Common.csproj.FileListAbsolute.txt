@@ -64,3 +64,4 @@ C:\Users\asus\Desktop\Daily\Cnode\WX.CNode\WX.CNode.Common\obj\Debug\WX.CNode.Co
 C:\Users\asus\Desktop\Daily\Cnode\WX.CNode\WX.CNode.Common\obj\Debug\WX.CNode.Common.csproj.CopyComplete
 C:\Users\asus\Desktop\Daily\Cnode\WX.CNode\WX.CNode.Common\obj\Debug\WX.CNode.Common.dll
 C:\Users\asus\Desktop\Daily\Cnode\WX.CNode\WX.CNode.Common\obj\Debug\WX.CNode.Common.pdb
+C:\Users\asus\Desktop\Daily\Cnode\WX.CNode\WX.CNode.Common\obj\Debug\WX.CNode.Common.csprojAssemblyReference.cache
