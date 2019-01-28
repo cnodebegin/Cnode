@@ -15,3 +15,8 @@ C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Model\obj\Debug\WX.Three
 C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Model\obj\Debug\WX.Three.Model.csproj.CoreCompileInputs.cache
 C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Model\obj\Debug\WX.Three.Model.dll
 C:\Users\asus\Desktop\Daily\Cnode\WX.Three.Api\WX.Three.Model\obj\Debug\WX.Three.Model.pdb
+D:\Cnode\WX.Three.Api\WX.Three.Model\bin\Debug\WX.Three.Model.dll
+D:\Cnode\WX.Three.Api\WX.Three.Model\bin\Debug\WX.Three.Model.pdb
+D:\Cnode\WX.Three.Api\WX.Three.Model\obj\Debug\WX.Three.Model.csproj.CoreCompileInputs.cache
+D:\Cnode\WX.Three.Api\WX.Three.Model\obj\Debug\WX.Three.Model.dll
+D:\Cnode\WX.Three.Api\WX.Three.Model\obj\Debug\WX.Three.Model.pdb
